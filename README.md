@@ -36,6 +36,6 @@ Make sure you have the required dependencies installed. Sync Gradle if needed.
 Just adjust the sliders and you'll see how the square on the bottom updates as you move them.
 
 ## Some examples images
-![App screenshot](https://imgur.com/2NdYt4M)
-![App screenshot](https://imgur.com/1B6PETY)
+![App screenshot](images/img1.png)
+![App screenshot](images/img2.png)
 
